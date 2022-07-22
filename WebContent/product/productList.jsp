@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div id="wrap" align="center">
-		<h1>상품 리스트 - 관리자 페이지</h1>
+		<h1>상품 리스트 - 관리자 페이지.</h1>
 		<table class="list">
 			<tr>
 				<td colspan="5" style="border:white; text-align: right">
